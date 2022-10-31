@@ -21,6 +21,7 @@ Sorted from the most used to the least used.
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### DB
+![.NET](https://img.shields.io/badge/EF_.NET_Core-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/MSSQL-darkred?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white)
